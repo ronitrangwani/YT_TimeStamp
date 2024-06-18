@@ -16,3 +16,9 @@ A Chrome extension to bookmark the timestamps of your YouTube videos.
 6. Refresh the extension, just in case.
 7. And tada! you can now store the timestamps of your videos on the go.
 
+## Screenshots :
+
+![No Video](https://github.com/ronitrangwani/YT_TimeStamp/blob/main/assets/no_video_ts.png)
+
+![Video TimeStamp](https://github.com/ronitrangwani/YT_TimeStamp/blob/main/assets/yt_ts.png)
+
